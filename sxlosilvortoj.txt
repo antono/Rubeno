@@ -3,7 +3,7 @@ and kaj
 begin
 BEGIN
 break
-case 
+case okazelekto
 class
 def difinu
 defined
@@ -20,19 +20,20 @@ in
 module modulo
 next
 nil nul
+nil senvalora
 not ne_estas
 or aux
 redo
 rescue
 retry
 return liveru
-self
+self mem
 super
 then
 true jes
 undef
 unless krom_se
 until gxis
-when
+when okazo
 while dum
 yield

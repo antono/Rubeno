@@ -1,29 +1,100 @@
-﻿abs absolutigu
+﻿& kio_komunas
+<=> komparu
+abs absolutigu
+arity kiom_da_argumentoj
 capitalize nomuskligu
+capitalize! nomuskligu!
+casecmp komparu_usklecoblinde
 center centrigu
+chars signoj
 chomp tondu
+chomp tondu!
+chop forigu_lastan
+chop! forigu_lastan!
+chr unua_signo
+clear malplenigu
+compact forigu_senvalorajn
+compact! forigu_senvalorajn!
+concat kunmetu
+count kiom
+cycle ripetu
+delete forigu
+delete forprenu
+delete_at forprenu_cxe
+delete_if forprenu_se
 downcase minuskligu
+downcase! minuskligu!
+drop
+drop_while
+dump sxutu
+each
+each_char cxiu_signo
+each_index
+each_line cxiu_linio
+empty? cxu_malplena
+end_with? cxu_finigxas_per
 exist? cxu_ekzistas
+fill plenigu
+find_index trovu_indicon
+first unua
+flatten platigu
+flatten! platigu!
 gets petu
+gsub
+gsub!
+hex mal16umigu
+include? cxu_havas
+insert enmetu
+inspect inspektu
 join kunigu
+keys tabeligu_indicojn
 last lasta
 length longo
 ljust maldekstremigu
+map
+map! 
+new nova
+next sekva
 open malfermu
-pop ellasu
+pop elpugigu
 print printu
+product produto
+push enmetu
+push enpugigu
 puts vidigu
 read legu
+reject rifuzu
+reject! rifuzu!
 require sxargu
 require uzu
 reverse inversigu
 rjust dekstremigu
+sample prenu_hazardan
+select apartigu
+shift elbusxigu
+shuffle miksu
+shuffle! miksu!
 size grando
+slice montru
+slice! eligu
+sort ordigu
+sort! ordigu!
 split 
 swapcase maluskligu
+swapcase! maluskligu!
 times foje
-to_f glitkomigu
+to_a tabeligu
+to_f glitpunktigu
 to_i entjerigu 
 to_s cxenigu
 to_yaml yamligu
+transpose transponu
+uniq forigu_duoblajn
+uniq forigu_kopiojn
+uniq unikigu
+uniq! forigu_kopiojn!
+uniq! unikigu
+unshift enbusxigu
 upcase majuskligu
+values tabeligu_valorojn
+values_at valoroj_cxe
