@@ -42,7 +42,7 @@ flatten! platigu!
 gets petu
 gsub
 gsub!
-hex mal16umigu
+hex maldeksesumigu
 include? cxu_havas
 insert enmetu
 inspect inspektu
@@ -54,6 +54,7 @@ ljust maldekstremigu
 map
 map! 
 new nova
+new kreu
 next sekva
 open malfermu
 pop elpugigu
@@ -80,6 +81,10 @@ slice! eligu
 sort ordigu
 sort! ordigu!
 split 
+sprintf formatu
+strftime formatu_tempon
+sub anstatauxigu
+sub! anstatauxigu!
 swapcase maluskligu
 swapcase! maluskligu!
 times foje
